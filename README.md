@@ -14,7 +14,7 @@ http://3.111.29.72
 ---
 
 ## 📷 Screenshot
-![Website Output](ec2 website output.png)
+![Website Output](ec2websiteoutput.png)
 
 ---
 
